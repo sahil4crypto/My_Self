@@ -67,7 +67,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sahil-kumar-b0648a314)
 - 🐙 [GitHub](https://github.com/sahil4crypto)
-- 📧 [Email](sg425573@gmail.com)
+- 📧 [Email](mailto:sg425573@gmail.com)
 
 ---
 
